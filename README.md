@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Acllivreerza
+- 👋 Hi, I’m Alireza
 - 👀 I’m interested in backend development and machine learning
 - 🌱 I’m currently learning django
 - 📫 How to reach me with my email : alireza.moghiseh2001@gmail.com
