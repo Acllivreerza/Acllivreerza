@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Acllivreerza
-- 👀 I’m interested in backend develop and machine learning
+- 👀 I’m interested in backend development and machine learning
 - 🌱 I’m currently learning django
 - 📫 How to reach me with my email : alireza.moghiseh2001@gmail.com
 
